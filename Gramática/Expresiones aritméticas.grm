@@ -1,4 +1,4 @@
-"Name"    = 'Mi Primer Proyecto en Gold Parser'
+﻿"Name"    = 'Mi Primer Proyecto en Gold Parser'
 "Author"  = 'Luis Lizama'
 "Version" = '1.0' 
 "About"   = 'Ejemplo de una gramática simple que reconoce expresiones aritméticas'
