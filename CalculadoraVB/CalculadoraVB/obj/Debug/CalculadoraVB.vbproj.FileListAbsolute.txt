@@ -1,0 +1,12 @@
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.exe.config
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.exe
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.pdb
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\bin\Debug\CalculadoraVB.xml
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.vbprojAssemblyReference.cache
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.Resources.resources
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.vbproj.GenerateResource.cache
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.vbproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.vbproj.CopyComplete
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.exe
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.xml
+C:\Users\Luis\Desktop\Gramatica Final\CalculadoraVB\CalculadoraVB\obj\Debug\CalculadoraVB.pdb
