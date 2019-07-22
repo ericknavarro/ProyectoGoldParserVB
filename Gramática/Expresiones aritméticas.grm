@@ -1,0 +1,30 @@
+"Name"    = 'Mi Primer Proyecto en Gold Parser'
+"Author"  = 'Luis Lizama'
+"Version" = '1.0' 
+"About"   = 'Ejemplo de una gramática simple que reconoce expresiones aritméticas'
+
+"Case Sensitive" = False 
+"Start Symbol"   = <Statements>
+    
+ENTERO = {Digit}+
+DECIMAL = ENTERO('.'ENTERO)?
+
+<Statements> ::= <Statement> <Statements>
+               | <Statement>
+
+<Statement>  ::= Evaluar '[' <Expression> ']'';'
+               
+<Expression>   ::= <Expression> '+' <Mult Exp> 
+                 | <Expression> '-' <Mult Exp> 
+                 | <Mult Exp> 
+
+<Mult Exp>    ::= <Mult Exp> '*' <Negate Exp> 
+                | <Mult Exp> '/' <Negate Exp> 
+                | <Negate Exp> 
+
+<Negate Exp>  ::= '-' <Value> 
+                | <Value> 
+
+<Value>       ::= ENTERO 
+                | DECIMAL 
+                | '(' <Expression> ')'
