@@ -6,8 +6,8 @@
 "Case Sensitive" = False 
 "Start Symbol"   = <Statements>
     
+DECIMAL = {Digit}+'.'{Digit}+
 ENTERO = {Digit}+
-DECIMAL = ENTERO('.'ENTERO)?
 
 <Statements> ::= <Statement> <Statements>
                | <Statement>
