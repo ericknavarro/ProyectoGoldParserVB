@@ -1,4 +1,4 @@
-# ProyectoJisonJS
+# ProyectoGoldParserVB
 
 ## Información General
 - Creado por Luis Lizama
